@@ -1,0 +1,19 @@
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.csproj.AssemblyReference.cache
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti_afk_complex.Form1.resources
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti_afk_complex.Process_List.resources
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.csproj.GenerateResource.cache
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.AssemblyInfoInputs.cache
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.AssemblyInfo.cs
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.csproj.CoreCompileInputs.cache
+D:\PROYECTOS C#\anti afk complex\bin\Debug\net6.0-windows\anti afk complex.exe
+D:\PROYECTOS C#\anti afk complex\bin\Debug\net6.0-windows\anti afk complex.deps.json
+D:\PROYECTOS C#\anti afk complex\bin\Debug\net6.0-windows\anti afk complex.runtimeconfig.json
+D:\PROYECTOS C#\anti afk complex\bin\Debug\net6.0-windows\anti afk complex.dll
+D:\PROYECTOS C#\anti afk complex\bin\Debug\net6.0-windows\anti afk complex.pdb
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.dll
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\refint\anti afk complex.dll
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.pdb
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti afk complex.genruntimeconfig.cache
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\ref\anti afk complex.dll
+D:\PROYECTOS C#\anti afk complex\obj\Debug\net6.0-windows\anti_afk_complex.Select_Key.resources
